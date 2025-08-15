@@ -179,6 +179,8 @@ Supports BTC, ETH, XMR, XML, DOGE, SOL, DASH, ADA, TRX, TON.
 |---------------|-------|----------|----------|
 | Wuzen Elite | $48  | 1 Week   | Limited Features |
 | Wuzen Pro   | $148 | 1 Week   | Full Feature Access |
+
+
 💵 Payment Methods: *Crypto Only* (BTC, ETH, USDT, XMR)  
 📩 Contact for Purchase: Telegram / WeChat  
 
